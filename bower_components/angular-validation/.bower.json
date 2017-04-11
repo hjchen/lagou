@@ -1,0 +1,36 @@
+{
+  "name": "angular-validation",
+  "version": "1.4.2",
+  "homepage": "https://github.com/huei90/angular-validation",
+  "authors": [
+    "huei90"
+  ],
+  "description": "Client-side Validation for AngularJS",
+  "main": "dist/angular-validation.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "validation",
+    "angular validation",
+    "validator",
+    "client-side"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "_release": "1.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.4.2",
+    "commit": "c5e2603e6c107f2fd9154906fe009039a7d6a234"
+  },
+  "_source": "https://github.com/huei90/angular-validation.git",
+  "_target": "1.4.2",
+  "_originalSource": "angular-validation"
+}
